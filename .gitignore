@@ -1,0 +1,8 @@
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+a1.generic-varaibles.tf
+ssh-keys
+*.pem
+*.pub
